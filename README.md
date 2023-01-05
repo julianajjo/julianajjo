@@ -2,7 +2,7 @@
 
 
 - 👩‍🔬 I'm a Pharmacist who decided to venture into the world of codes
-- 👩‍💻 I’m currently an intern in Web Development
+- 👩‍💻 I’m currently a Software Engineer at Dock
 - 🌱 I’m currently learning Front-end Technologies
 - ❤ I like to learn new things and I'm curious to understand the universe of Technology
 - 💪Encourage more women to enter the Technology World
